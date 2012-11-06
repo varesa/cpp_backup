@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "summaFOR", "summaFOR\summaFOR.vcxproj", "{B0925592-B566-413B-889D-753069814F2E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SummaWhile", "SummaWhile\SummaWhile.vcxproj", "{607196AD-3107-4DF7-8BF5-EC6C19CB2CEB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SummaDOWHILE", "SummaDOWHILE\SummaDOWHILE.vcxproj", "{16BBE257-FD35-4F45-A416-FBC0D9A3F9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0925592-B566-413B-889D-753069814F2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0925592-B566-413B-889D-753069814F2E}.Debug|Win32.Build.0 = Debug|Win32
+		{B0925592-B566-413B-889D-753069814F2E}.Release|Win32.ActiveCfg = Release|Win32
+		{B0925592-B566-413B-889D-753069814F2E}.Release|Win32.Build.0 = Release|Win32
+		{607196AD-3107-4DF7-8BF5-EC6C19CB2CEB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{607196AD-3107-4DF7-8BF5-EC6C19CB2CEB}.Debug|Win32.Build.0 = Debug|Win32
+		{607196AD-3107-4DF7-8BF5-EC6C19CB2CEB}.Release|Win32.ActiveCfg = Release|Win32
+		{607196AD-3107-4DF7-8BF5-EC6C19CB2CEB}.Release|Win32.Build.0 = Release|Win32
+		{16BBE257-FD35-4F45-A416-FBC0D9A3F9BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16BBE257-FD35-4F45-A416-FBC0D9A3F9BC}.Debug|Win32.Build.0 = Debug|Win32
+		{16BBE257-FD35-4F45-A416-FBC0D9A3F9BC}.Release|Win32.ActiveCfg = Release|Win32
+		{16BBE257-FD35-4F45-A416-FBC0D9A3F9BC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "t1", "t1\t1.vbproj", "{40AA5C3D-A6F7-4B7B-9AD3-5B6D97B43779}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "t2", "t2\t2.vbproj", "{F37BE7FA-C5F1-4004-8E2B-424AF9F635DF}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "t3", "t3\t3.vbproj", "{1D381D56-677B-448A-A5F9-F3FB0CF2D0CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AA5C3D-A6F7-4B7B-9AD3-5B6D97B43779}.Debug|x86.ActiveCfg = Debug|x86
+		{40AA5C3D-A6F7-4B7B-9AD3-5B6D97B43779}.Debug|x86.Build.0 = Debug|x86
+		{40AA5C3D-A6F7-4B7B-9AD3-5B6D97B43779}.Release|x86.ActiveCfg = Release|x86
+		{40AA5C3D-A6F7-4B7B-9AD3-5B6D97B43779}.Release|x86.Build.0 = Release|x86
+		{F37BE7FA-C5F1-4004-8E2B-424AF9F635DF}.Debug|x86.ActiveCfg = Debug|x86
+		{F37BE7FA-C5F1-4004-8E2B-424AF9F635DF}.Debug|x86.Build.0 = Debug|x86
+		{F37BE7FA-C5F1-4004-8E2B-424AF9F635DF}.Release|x86.ActiveCfg = Release|x86
+		{F37BE7FA-C5F1-4004-8E2B-424AF9F635DF}.Release|x86.Build.0 = Release|x86
+		{1D381D56-677B-448A-A5F9-F3FB0CF2D0CD}.Debug|x86.ActiveCfg = Debug|x86
+		{1D381D56-677B-448A-A5F9-F3FB0CF2D0CD}.Debug|x86.Build.0 = Debug|x86
+		{1D381D56-677B-448A-A5F9-F3FB0CF2D0CD}.Release|x86.ActiveCfg = Release|x86
+		{1D381D56-677B-448A-A5F9-F3FB0CF2D0CD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

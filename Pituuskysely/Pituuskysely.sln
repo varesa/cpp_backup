@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pituuskysely", "Pituuskysely\Pituuskysely.vcxproj", "{D2E37C45-F243-450F-873F-5FFBBFF98ED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E37C45-F243-450F-873F-5FFBBFF98ED5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D2E37C45-F243-450F-873F-5FFBBFF98ED5}.Debug|Win32.Build.0 = Debug|Win32
+		{D2E37C45-F243-450F-873F-5FFBBFF98ED5}.Release|Win32.ActiveCfg = Release|Win32
+		{D2E37C45-F243-450F-873F-5FFBBFF98ED5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

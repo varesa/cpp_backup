@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "alku", "alku\alku.vcxproj", "{21F8DFFA-CF66-444F-9747-D727E80F6477}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pelaajat", "pelaaja\pelaajaLuokat2.vcxproj", "{DB8167E4-A778-4B65-B78F-F22716CB422C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pallot", "oma1\oma1.vcxproj", "{7536053E-3D2F-4C38-89D7-BA60839D458E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F8DFFA-CF66-444F-9747-D727E80F6477}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21F8DFFA-CF66-444F-9747-D727E80F6477}.Debug|Win32.Build.0 = Debug|Win32
+		{21F8DFFA-CF66-444F-9747-D727E80F6477}.Release|Win32.ActiveCfg = Release|Win32
+		{21F8DFFA-CF66-444F-9747-D727E80F6477}.Release|Win32.Build.0 = Release|Win32
+		{DB8167E4-A778-4B65-B78F-F22716CB422C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB8167E4-A778-4B65-B78F-F22716CB422C}.Debug|Win32.Build.0 = Debug|Win32
+		{DB8167E4-A778-4B65-B78F-F22716CB422C}.Release|Win32.ActiveCfg = Release|Win32
+		{DB8167E4-A778-4B65-B78F-F22716CB422C}.Release|Win32.Build.0 = Release|Win32
+		{7536053E-3D2F-4C38-89D7-BA60839D458E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7536053E-3D2F-4C38-89D7-BA60839D458E}.Debug|Win32.Build.0 = Debug|Win32
+		{7536053E-3D2F-4C38-89D7-BA60839D458E}.Release|Win32.ActiveCfg = Release|Win32
+		{7536053E-3D2F-4C38-89D7-BA60839D458E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "elain", "elain\elain.vcxproj", "{453242C5-66C5-47EB-B2DF-19F9E984B577}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tilit", "tilit\tilit.vcxproj", "{DDE3C65A-B9CD-4993-9BB2-53D680172E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453242C5-66C5-47EB-B2DF-19F9E984B577}.Debug|Win32.ActiveCfg = Debug|Win32
+		{453242C5-66C5-47EB-B2DF-19F9E984B577}.Debug|Win32.Build.0 = Debug|Win32
+		{453242C5-66C5-47EB-B2DF-19F9E984B577}.Release|Win32.ActiveCfg = Release|Win32
+		{453242C5-66C5-47EB-B2DF-19F9E984B577}.Release|Win32.Build.0 = Release|Win32
+		{DDE3C65A-B9CD-4993-9BB2-53D680172E2B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDE3C65A-B9CD-4993-9BB2-53D680172E2B}.Debug|Win32.Build.0 = Debug|Win32
+		{DDE3C65A-B9CD-4993-9BB2-53D680172E2B}.Release|Win32.ActiveCfg = Release|Win32
+		{DDE3C65A-B9CD-4993-9BB2-53D680172E2B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

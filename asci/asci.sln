@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boom", "boom\boom.vcxproj", "{B01B7F12-E741-4427-A94D-E11D3AE40367}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "salakirj", "salakirj\salakirj.vcxproj", "{737E3DCE-2F39-4435-9B0C-5475D0069CD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01B7F12-E741-4427-A94D-E11D3AE40367}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B01B7F12-E741-4427-A94D-E11D3AE40367}.Debug|Win32.Build.0 = Debug|Win32
+		{B01B7F12-E741-4427-A94D-E11D3AE40367}.Release|Win32.ActiveCfg = Release|Win32
+		{B01B7F12-E741-4427-A94D-E11D3AE40367}.Release|Win32.Build.0 = Release|Win32
+		{737E3DCE-2F39-4435-9B0C-5475D0069CD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{737E3DCE-2F39-4435-9B0C-5475D0069CD8}.Debug|Win32.Build.0 = Debug|Win32
+		{737E3DCE-2F39-4435-9B0C-5475D0069CD8}.Release|Win32.ActiveCfg = Release|Win32
+		{737E3DCE-2F39-4435-9B0C-5475D0069CD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
